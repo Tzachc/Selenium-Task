@@ -35,7 +35,7 @@ namespace SeleniumTask
             try
             {
                 String[] listB = new String[3];
-                using (var reader = new StreamReader(@"C:\Users\Tzach\source\repos\SkyLab_Sele\SkyLab_Sele\Information.csv"))
+                using (var reader = new StreamReader(@"C:\Users\Tzach\source\repos\SeleniumSkyLabs\SeleniumSkyLabs\Information.csv"))
                 {
                     int counter = 0;
                     while (!reader.EndOfStream)
