@@ -1,0 +1,14 @@
+C:\Users\Tzach\source\repos\SeleniumSkyLabs\SeleniumSkyLabs\bin\Debug\netcoreapp3.0\SeleniumSkyLabs.exe
+C:\Users\Tzach\source\repos\SeleniumSkyLabs\SeleniumSkyLabs\obj\Debug\netcoreapp3.0\SeleniumSkyLabs.csprojAssemblyReference.cache
+C:\Users\Tzach\source\repos\SeleniumSkyLabs\SeleniumSkyLabs\obj\Debug\netcoreapp3.0\SeleniumSkyLabs.AssemblyInfoInputs.cache
+C:\Users\Tzach\source\repos\SeleniumSkyLabs\SeleniumSkyLabs\obj\Debug\netcoreapp3.0\SeleniumSkyLabs.AssemblyInfo.cs
+C:\Users\Tzach\source\repos\SeleniumSkyLabs\SeleniumSkyLabs\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Tzach\source\repos\SeleniumSkyLabs\SeleniumSkyLabs\bin\Debug\netcoreapp3.0\WebDriver.dll
+C:\Users\Tzach\source\repos\SeleniumSkyLabs\SeleniumSkyLabs\obj\Debug\netcoreapp3.0\SeleniumSkyLabs.csproj.CopyComplete
+C:\Users\Tzach\source\repos\SeleniumSkyLabs\SeleniumSkyLabs\bin\Debug\netcoreapp3.0\SeleniumSkyLabs.deps.json
+C:\Users\Tzach\source\repos\SeleniumSkyLabs\SeleniumSkyLabs\bin\Debug\netcoreapp3.0\SeleniumSkyLabs.runtimeconfig.json
+C:\Users\Tzach\source\repos\SeleniumSkyLabs\SeleniumSkyLabs\bin\Debug\netcoreapp3.0\SeleniumSkyLabs.runtimeconfig.dev.json
+C:\Users\Tzach\source\repos\SeleniumSkyLabs\SeleniumSkyLabs\bin\Debug\netcoreapp3.0\SeleniumSkyLabs.dll
+C:\Users\Tzach\source\repos\SeleniumSkyLabs\SeleniumSkyLabs\bin\Debug\netcoreapp3.0\SeleniumSkyLabs.pdb
+C:\Users\Tzach\source\repos\SeleniumSkyLabs\SeleniumSkyLabs\obj\Debug\netcoreapp3.0\SeleniumSkyLabs.dll
+C:\Users\Tzach\source\repos\SeleniumSkyLabs\SeleniumSkyLabs\obj\Debug\netcoreapp3.0\SeleniumSkyLabs.pdb
