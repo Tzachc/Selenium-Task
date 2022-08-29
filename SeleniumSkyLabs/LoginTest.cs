@@ -119,7 +119,7 @@ namespace SeleniumTask
             try
             {
 
-                StreamWriter sw = new StreamWriter(@"C:\Users\Tzach\source\repos\SkyLab_Sele\SkyLab_Sele\TextTest.txt");
+                StreamWriter sw = new StreamWriter(@"C:\Users\Tzach\source\repos\SeleniumSkyLabs\SeleniumSkyLabs\TextTest.txt");
                 sw.WriteLine(text);
                 sw.Close();
             }
