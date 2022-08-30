@@ -37,9 +37,11 @@ Inheritance from LoginBase and implement login and logout methods:
 
 **ExtractText** : Helper method to extract the data from question mark.
 
-**MyWaitElement** : Method to check if the page load in 10 sec.
+**WaitTenSeconds** : Method to check if the page load in 10 sec.
 
-**run_Click** : Click login button helper method.
+**ValidateLoad** : Trying to grab webElement from the loaded page for the validation.
+
+**run_Click** : Click login button.
 
 **WriteToTextFile** Helper method to write into file.
 
